@@ -32,6 +32,9 @@ ol, ul {
   width: 34px;
 }
 
+.square:hover{
+  cursor: pointer;
+}
 .square:focus {
   outline: none;
 }
